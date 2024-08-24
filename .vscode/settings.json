@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "glcdfont.c": "cpp",
+        "font7srle.c": "cpp",
+        "ostream": "cpp"
+    }
+}
