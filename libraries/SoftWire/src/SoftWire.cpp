@@ -8,7 +8,7 @@
 #include <util/atomic.h>
 #endif
 
-#include <SoftWire.h>
+#include "SoftWire.h"
 
 
 // Force SDA low
